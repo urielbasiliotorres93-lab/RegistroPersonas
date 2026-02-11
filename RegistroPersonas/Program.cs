@@ -1,4 +1,6 @@
-﻿using System;
+﻿// Version inicial
+
+using System;
 using System.Collections.Generic;
 namespace RegistroPersonas
 {
