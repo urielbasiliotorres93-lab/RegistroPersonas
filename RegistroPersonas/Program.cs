@@ -1,4 +1,4 @@
-﻿// Version inicial
+﻿// Version inicial}
 
 using System;
 using System.Collections.Generic;
